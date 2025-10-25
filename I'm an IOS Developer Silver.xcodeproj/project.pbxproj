@@ -7,16 +7,16 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		F819DC752EAB2D2A00F06C93 /* I'm an IOS Developer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I'm an IOS Developer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F819DC752EAB2D2A00F06C93 /* I'm an IOS Developer Silver.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I'm an IOS Developer Silver.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		F819DC872EAB2D2C00F06C93 /* Exceptions for "I'm an IOS Developer" folder in "I'm an IOS Developer" target */ = {
+		F819DC872EAB2D2C00F06C93 /* Exceptions for "I'm an IOS Developer" folder in "I'm an IOS Developer Silver" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = F819DC742EAB2D2A00F06C93 /* I'm an IOS Developer */;
+			target = F819DC742EAB2D2A00F06C93 /* I'm an IOS Developer Silver */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
@@ -24,7 +24,7 @@
 		F819DC772EAB2D2A00F06C93 /* I'm an IOS Developer */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				F819DC872EAB2D2C00F06C93 /* Exceptions for "I'm an IOS Developer" folder in "I'm an IOS Developer" target */,
+				F819DC872EAB2D2C00F06C93 /* Exceptions for "I'm an IOS Developer" folder in "I'm an IOS Developer Silver" target */,
 			);
 			path = "I'm an IOS Developer";
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 		F819DC762EAB2D2A00F06C93 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F819DC752EAB2D2A00F06C93 /* I'm an IOS Developer.app */,
+				F819DC752EAB2D2A00F06C93 /* I'm an IOS Developer Silver.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,9 +61,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F819DC742EAB2D2A00F06C93 /* I'm an IOS Developer */ = {
+		F819DC742EAB2D2A00F06C93 /* I'm an IOS Developer Silver */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F819DC882EAB2D2C00F06C93 /* Build configuration list for PBXNativeTarget "I'm an IOS Developer" */;
+			buildConfigurationList = F819DC882EAB2D2C00F06C93 /* Build configuration list for PBXNativeTarget "I'm an IOS Developer Silver" */;
 			buildPhases = (
 				F819DC712EAB2D2A00F06C93 /* Sources */,
 				F819DC722EAB2D2A00F06C93 /* Frameworks */,
@@ -76,11 +76,11 @@
 			fileSystemSynchronizedGroups = (
 				F819DC772EAB2D2A00F06C93 /* I'm an IOS Developer */,
 			);
-			name = "I'm an IOS Developer";
+			name = "I'm an IOS Developer Silver";
 			packageProductDependencies = (
 			);
 			productName = "I'm an IOS Developer";
-			productReference = F819DC752EAB2D2A00F06C93 /* I'm an IOS Developer.app */;
+			productReference = F819DC752EAB2D2A00F06C93 /* I'm an IOS Developer Silver.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -98,7 +98,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F819DC702EAB2D2A00F06C93 /* Build configuration list for PBXProject "I'm an IOS Developer" */;
+			buildConfigurationList = F819DC702EAB2D2A00F06C93 /* Build configuration list for PBXProject "I'm an IOS Developer Silver" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F819DC742EAB2D2A00F06C93 /* I'm an IOS Developer */,
+				F819DC742EAB2D2A00F06C93 /* I'm an IOS Developer Silver */,
 			);
 		};
 /* End PBXProject section */
@@ -326,7 +326,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F819DC702EAB2D2A00F06C93 /* Build configuration list for PBXProject "I'm an IOS Developer" */ = {
+		F819DC702EAB2D2A00F06C93 /* Build configuration list for PBXProject "I'm an IOS Developer Silver" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F819DC8B2EAB2D2C00F06C93 /* Debug */,
@@ -335,7 +335,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F819DC882EAB2D2C00F06C93 /* Build configuration list for PBXNativeTarget "I'm an IOS Developer" */ = {
+		F819DC882EAB2D2C00F06C93 /* Build configuration list for PBXNativeTarget "I'm an IOS Developer Silver" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F819DC892EAB2D2C00F06C93 /* Debug */,
