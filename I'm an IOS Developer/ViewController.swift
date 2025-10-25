@@ -14,6 +14,23 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    @IBAction func github_button(_ sender: Any) {
+        if let url = URL(string: "https://github.com/icepap/Codeco_im_dev") {
+               UIApplication.shared.open(url)
+           }
+    }
+    
+    @IBAction func resume_button(_ sender: Any) {
+        if let url = URL(string: "https://drive.google.com/file/d/19ZJcJlGL5MLt-zU8M8cvJI4M75gBwrEa/view?usp=sharing") {
+               UIApplication.shared.open(url)
+           }
+    }
+    
+    @IBAction func linkedn_button(_ sender: Any) {
+        if let url = URL(string: "https://www.linkedin.com/in/oraz-abil-1616271a1/") {
+               UIApplication.shared.open(url)
+           }
+    }
+    
 }
 
