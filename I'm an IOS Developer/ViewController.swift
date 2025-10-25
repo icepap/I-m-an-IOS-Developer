@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func github_button(_ sender: Any) {
-        if let url = URL(string: "https://github.com/icepap/Codeco_im_dev") {
+        if let url = URL(string: "https://github.com/icepap/I-m-an-IOS-Developer") {
                UIApplication.shared.open(url)
            }
     }
